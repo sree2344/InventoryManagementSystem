@@ -1,0 +1,16 @@
+C:\Users\sri20\OneDrive\Documents\Git\IMS\IMS\bin\Debug\inventory.mdf
+C:\Users\sri20\OneDrive\Documents\Git\IMS\IMS\bin\Debug\inventory_log.ldf
+C:\Users\sri20\OneDrive\Documents\Git\IMS\IMS\bin\Debug\IMS.exe.config
+C:\Users\sri20\OneDrive\Documents\Git\IMS\IMS\bin\Debug\IMS.exe
+C:\Users\sri20\OneDrive\Documents\Git\IMS\IMS\bin\Debug\IMS.pdb
+C:\Users\sri20\OneDrive\Documents\Git\IMS\IMS\obj\Debug\IMS.csproj.AssemblyReference.cache
+C:\Users\sri20\OneDrive\Documents\Git\IMS\IMS\obj\Debug\IMS.csproj.SuggestedBindingRedirects.cache
+C:\Users\sri20\OneDrive\Documents\Git\IMS\IMS\obj\Debug\IMS.login.resources
+C:\Users\sri20\OneDrive\Documents\Git\IMS\IMS\obj\Debug\IMS.Properties.Resources.resources
+C:\Users\sri20\OneDrive\Documents\Git\IMS\IMS\obj\Debug\IMS.csproj.GenerateResource.cache
+C:\Users\sri20\OneDrive\Documents\Git\IMS\IMS\obj\Debug\IMS.csproj.CoreCompileInputs.cache
+C:\Users\sri20\OneDrive\Documents\Git\IMS\IMS\obj\Debug\IMS.exe
+C:\Users\sri20\OneDrive\Documents\Git\IMS\IMS\obj\Debug\IMS.pdb
+C:\Users\sri20\OneDrive\Documents\Git\IMS\IMS\obj\Debug\IMS.add_new_user.resources
+C:\Users\sri20\OneDrive\Documents\Git\IMS\IMS\obj\Debug\IMS.MDIParent1.resources
+C:\Users\sri20\OneDrive\Documents\Git\IMS\IMS\obj\Debug\IMS.unit.resources
